@@ -1,0 +1,56 @@
+form{
+    border: solid 1px;
+    width: 700px;
+    background-color: rgb(243, 213, 176);
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 25px;
+    margin-left: 280px;
+    border-bottom-right-radius: 30%;
+    border-top-left-radius: 30%
+
+}
+label{
+    font-size: 25px;
+    font-weight: bold;
+   color: brown;
+
+}
+input{
+    width: 400px;
+    height: 20px;
+    /*outline: none;*/
+    /*border: none;*/
+    border-radius: 15px;
+    font-size: 20px;
+}
+textarea{
+    width: 500px;
+    height: 100px;
+    border-radius: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+h1{
+    font-size: 40px;
+    color: rgb(110, 56, 56);
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+button{
+    width: 160px;
+    height: 40px ;
+    background-color: rgb(119, 177, 148);
+    border-radius: 20px;
+    font-size: 22px;
+}
+button a{
+    color: slategrey;
+    text-decoration: none;
+}
+body{
+    /*background-color: beige;*/
+    background-image: linear-gradient(rgb(144, 204, 212),rgb(230, 117, 136));
+}
